@@ -279,6 +279,8 @@ Desenvolver a plataforma ReceiTech, permitindo que os usuários:
 ---
 
 ## Sprint 4 – Levantamento de Requisitos da Solução Proposta ##
+Product Backlog: https://docs.google.com/document/d/1lDZuTygFnqXGyQa69I-zCjurpHrQ6OZqzZTyW9L1pzI/edit?usp=sharing
+Tabela de Requisitos Funcionais e Não Funcionais: https://docs.google.com/document/d/1Qa18pE2quzhy4W6Z8EiJ3bJzLX1YMG-uDOqwzFmJW-k/edit?usp=sharing
 
 
 
