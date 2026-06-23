@@ -44,13 +44,6 @@ Plataforma Colaborativa de Compartilhamento de Receitas**
 - Levantamento de referências e trabalhos relacionados;
 - Estudo das tecnologias envolvidas.
   
-**Tecnologias Previstas**
-- React;
-- JavaScript;
-- Node.js;
-- Banco de Dados;
-- Git e GitHub.
-  
 **Entregas**
 - Levantamento bibliográfico. 
 ---
@@ -275,6 +268,18 @@ Desenvolver a plataforma ReceiTech, permitindo que os usuários:
 - Facilidade de acesso às receitas;
 - Incentivo à colaboração entre usuários;
 - Compartilhamento simplificado de conhecimento gastronômico.
+
+## Sprint 3 -  Levantamento Bibliográfico e Estruturação ##
+**Tecnologias**
+- React
+- JavaScript
+- Node.js
+- Banco de Dados
+- Git e GitHub
+---
+
+## Sprint 4 – Levantamento de Requisitos da Solução Proposta ##
+
 
 
 Documentação inicial: https://docs.google.com/document/d/1_ewwmtF2L8ARucviS2eNP2-f70HXf2iIsm_9z-iJ3b0/edit?usp=sharing
