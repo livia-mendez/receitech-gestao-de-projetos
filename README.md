@@ -159,7 +159,7 @@ Plataforma Colaborativa de Compartilhamento de Receitas**
 ReceiTech – Plataforma Colaborativa de Compartilhamento de Receitas
 
 **Patrocinador**   
-Professor da disciplina de Gestão de Projetos – IFSP
+Professor Lineu
 
 **Gerente do Projeto**  
 Livia Mendes
@@ -280,6 +280,7 @@ Desenvolver a plataforma ReceiTech, permitindo que os usuários:
 
 ## Sprint 4 – Levantamento de Requisitos da Solução Proposta ##
 Product Backlog: https://docs.google.com/document/d/1lDZuTygFnqXGyQa69I-zCjurpHrQ6OZqzZTyW9L1pzI/edit?usp=sharing
+
 Tabela de Requisitos Funcionais e Não Funcionais: https://docs.google.com/document/d/1Qa18pE2quzhy4W6Z8EiJ3bJzLX1YMG-uDOqwzFmJW-k/edit?usp=sharing
 
 
@@ -288,6 +289,4 @@ Documentação inicial: https://docs.google.com/document/d/1_ewwmtF2L8ARucviS2eN
 
 Instruções de instalação e execução: https://docs.google.com/document/d/1fCLrHfHRODl5mpBL5hWQajqdIZ6AfmsTWg1AmvJdShs/edit?usp=sharing
 
-Link Trello: https://trello.com/invite/b/691b0fcfa6d677db932a724e/ATTIe0bf287913a1aa2c5ca0be77c2affb9dCC0EBEAF/prrojeto-receitech-parte-2
 
-Integrantes: Rayara Chambela, Igor Mazeti, Lívia Mendes
